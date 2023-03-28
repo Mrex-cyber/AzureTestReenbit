@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/131de49c-3f2a-4b61-8710-99cccf504b54/resourceGroups/TestTasks/providers/Microsoft.Web/sites/Reenbit-Test-Task"
+}

@@ -1,0 +1,13 @@
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\ReenbitTest.exe
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\appsettings.Development.json
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\appsettings.json
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\ReenbitTest.dll
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\ReenbitTest.deps.json
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\ReenbitTest.runtimeconfig.json
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\ReenbitTest.pdb
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\Azure.Core.dll
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\Azure.Storage.Blobs.dll
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\Azure.Storage.Common.dll
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\System.IO.Hashing.dll
+D:\Pet-projects\AzureTestReenbit\ReenbitTest\bin\Release\net7.0\publish\System.Memory.Data.dll

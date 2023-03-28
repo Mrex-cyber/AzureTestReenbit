@@ -6,11 +6,9 @@
 
 <div class="text-center">
     <h1 class="display-4">Welcome to the Test Web App</h1>
-    <form method="post">
-        <input type="file" />
-        <input type="email"/>
-        <input type="submit"/>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="uploadedFile"/>
+        <input type="email" name="email"/>
+        <input type="submit" value="Send">
     </form>
-    
-
 </div>
